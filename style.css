@@ -1,0 +1,31 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.photo {
+    background-color: white;
+    padding: 40px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+}
+
+
